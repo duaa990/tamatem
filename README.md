@@ -11,7 +11,7 @@ Executable php program to group files into sub-folders, each sub-folder to be na
 REQUIREMENTS
 ------------
 
-The minimum requirement by this project template that your Web server supports PHP 5.6.0.
+The minimum requirement by this task that your Web server supports PHP 5.6.0.
 
 TESTING
 ------------
